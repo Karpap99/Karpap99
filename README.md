@@ -4,7 +4,7 @@
   <h1>Fullstack developer</h2>
   <h2>About me</h2>
   <h2>My technologies</h2>
-  <div style="display:flex; gap:20px;">
+  <div style="display:flex;">
     <div>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp">
       <details>
