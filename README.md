@@ -2,9 +2,25 @@
   align="center"
 >
   <h1>Fullstack developer</h2>
-  <h2>Technologies</h2>
-
-  
+  <h2>About me</h2>
+  <h2>My technologies</h2>
+  <div>
+    <div>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp">
+      <details>
+        <summary>
+          Show skills
+        </summary>
+        Hooks
+        HOC
+        Fetch/Axios
+        Tanstack Query
+        i18next
+        Google Maps API
+      </details>
+    </div>
+    
+  </div>
 </div>
 
 <!--
