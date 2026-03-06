@@ -1,7 +1,13 @@
+<div 
+  style="display: flex; justify-content: space-around;">
 <h1>Fullstack developer</h2>
 
 
 <h2>Technologies</h2>
+
+  
+</div>
+
 <!--
 **Karpap99/Karpap99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
